@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Play%20Store-View%20Apps-4285F4?style=for-the-badge&logo=googleplay&logoColor=white)](#-published-apps)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dm@igpinstitute.org)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshthakur35678@gmail.com)
 
 </div>
 
@@ -55,6 +55,6 @@ I'm a mobile & web developer currently working as an **App/Web Developer at Gree
 
 <div align="center">
 
-📫 Reach me at **dm@igpinstitute.org** &nbsp;|&nbsp; 🔗 Update the LinkedIn badge above with your profile link
+📫 Reach me at **mukeshthakur35678@gmail.com** &nbsp;|&nbsp; 🔗 Update the LinkedIn badge above with your profile link
 
 </div>
