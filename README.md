@@ -35,10 +35,12 @@ I'm a mobile & web developer currently working as an **App/Web Developer at Gree
 
 | App | Stack | Highlight |
 |---|---|---|
-| 🛍️ **[Green Mounts Ventures](https://play.google.com/store/apps/details?id=com.greenmountsventures.app)** | React Native, PHP/MySQL, Razorpay | Full e-commerce platform — built and maintained end-to-end at my day-to-day job |
+| 🛍️ **[Green Mounts Ventures](https://github.com/mukeshkumar356/green-mounts-ventures-case-study)** | React Native, PHP/MySQL, Razorpay | Full e-commerce platform — built and maintained end-to-end at my day-to-day job ([case study ↗](https://github.com/mukeshkumar356/green-mounts-ventures-case-study)) |
 | 🚇 **[Metro Saathi](https://github.com/mukeshkumar356/metro-saathi)** | React Native, TypeScript | Offline-first Delhi Metro companion with a hand-built pathfinding engine across 268+ stations |
 | 🧩 **[#HashKit](https://github.com/mukeshkumar356/hashkit-android)** | Android, Java, ML Kit | Instagram toolkit — on-device AI photo analysis, zero data collection by design |
 | 🧠 **[GyaanGuru](https://github.com/mukeshkumar356/gyaanguru-quiz)** | Android, Java | Bilingual GK quiz app, 300+ questions, live trivia mode |
+| 🧮 **[Scientific Calculator](https://github.com/mukeshkumar356/scientific-calculator)** | Android, Kotlin | Hand-written recursive-descent expression parser, no eval library |
+| 📷 **[QR Code Pro](https://github.com/mukeshkumar356/qr-code-pro)** | Android, Kotlin | QR generator + camera scanner (ZXing), save/share support |
 
 ### 📊 GitHub Stats
 
