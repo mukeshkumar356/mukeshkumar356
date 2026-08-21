@@ -45,12 +45,12 @@ I'm a mobile & web developer currently working as an **App/Web Developer at Gree
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mukeshkumar356&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshkumar356&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshkumar356&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshkumar356&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/followers/mukeshkumar356?style=for-the-badge&logo=github&label=Followers&color=2E86DE" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/mukeshkumar356&color=4285F4" alt="Public Repos" />
 </p>
 
 ---
