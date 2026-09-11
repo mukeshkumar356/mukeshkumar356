@@ -41,6 +41,7 @@ I'm a mobile & web developer currently working as an **App/Web Developer at Gree
 | 🧠 **[GyaanGuru](https://github.com/mukeshkumar356/gyaanguru-quiz)** | Android, Java | Bilingual GK quiz app, 300+ questions, live trivia mode |
 | 🧮 **[Scientific Calculator](https://github.com/mukeshkumar356/scientific-calculator)** | Android, Kotlin | Hand-written recursive-descent expression parser, no eval library |
 | 📷 **[QR Code Pro](https://github.com/mukeshkumar356/qr-code-pro)** | Android, Kotlin | QR generator + camera scanner (ZXing), save/share support |
+| 🛕 **[Janki Mandir — Sitamarhi](https://github.com/mukeshkumar356/jankimandir-sitamarhi-case-study)** | PHP, MySQL | SEO-optimized tourism website, own project — SQL injection fixes, schema markup, 15+ researched places ([case study ↗](https://github.com/mukeshkumar356/jankimandir-sitamarhi-case-study)) |
 
 ### 📜 Certifications
 
