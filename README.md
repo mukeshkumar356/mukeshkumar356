@@ -48,10 +48,10 @@ I'm a mobile & web developer currently working as an **App/Web Developer at Gree
 ### 📜 Certifications
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Frontend%20Developer%20(React)-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/5d67fb72a660)
+[![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-Android%20Development%20with%20Kotlin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/certificates/8e4bca6ec5b390ecc0d1b0c99a57642690fe3beff807f77c4d2003708c616f36)
+[![Anthropic Academy](https://img.shields.io/badge/Anthropic%20Academy-Claude%20101-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/ea6dxnoe5i4g)
 
 - **REST API (Intermediate)** — HackerRank
-- **Android Development with Kotlin** — LinkedIn Learning
-- **Claude 101** — Anthropic Academy
 - **Android Security Masterclass** — PW Skills
 - **Web Hacking Workshop** — PW Skills
 - **Node.js Full-Stack Workshop** — PW Skills
