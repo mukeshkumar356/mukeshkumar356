@@ -5,7 +5,9 @@
 ### 📱 I design, build, and publish complete mobile products — from UI to backend to the Play Store listing.
 
 [![Portfolio](https://img.shields.io/badge/Play%20Store-View%20Apps-4285F4?style=for-the-badge&logo=googleplay&logoColor=white)](#-published-apps)
+[![Website](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mukeshkumar356.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-kumar-a37617222)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itskaushikkarn/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshthakur35678@gmail.com)
 
 </div>
@@ -47,6 +49,14 @@ I'm a mobile & web developer currently working as an **App/Web Developer at Gree
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Frontend%20Developer%20(React)-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/5d67fb72a660)
 
+- **REST API (Intermediate)** — HackerRank
+- **Android Development with Kotlin** — LinkedIn Learning
+- **Claude 101** — Anthropic Academy
+- **Android Security Masterclass** — PW Skills
+- **Web Hacking Workshop** — PW Skills
+- **Node.js Full-Stack Workshop** — PW Skills
+- **Git & GitHub Mastery** — PW Skills
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -62,6 +72,6 @@ I'm a mobile & web developer currently working as an **App/Web Developer at Gree
 
 <div align="center">
 
-📫 Reach me at **mukeshthakur35678@gmail.com** &nbsp;|&nbsp; 🔗 Update the LinkedIn badge above with your profile link
+📫 Reach me at **mukeshthakur35678@gmail.com**
 
 </div>
