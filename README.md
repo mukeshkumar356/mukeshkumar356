@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mukesh+Kumar+%F0%9F%91%8B;Android+%26+React+Native+Developer;I+build+and+ship+full+apps%2C+end+to+end." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E86DE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mukesh+Kumar+%F0%9F%91%8B;Android+%7C+React+Native+%7C+Flutter+Dev;I+build+and+ship+full+apps%2C+end+to+end." alt="Typing SVG" />
 
 ### 📱 I design, build, and publish complete mobile products — from UI to backend to the Play Store listing.
 
@@ -19,17 +19,17 @@
 I'm a mobile & web developer currently working as an **App/Web Developer at Green Mounts Ventures**, where I build and maintain a full e-commerce platform end-to-end — customer-facing app, backend API, and payment integration. Outside of that, I design and ship independent Android apps solo, from architecture to a live Play Store listing.
 
 - 🔭 Currently building consumer Android apps and maintaining a production e-commerce platform
-- 🌱 Sharpening native Android (Kotlin/Java) alongside React Native for cross-platform work
+- 🌱 Sharpening native Android (Kotlin/Java) alongside React Native and Flutter for cross-platform work
 - 🐛 I enjoy the kind of bug where the obvious cause is wrong three times before the real one shows up ([see an example](https://github.com/mukeshkumar356/gyaanguru-quiz#-a-debugging-story-worth-telling))
-- 💬 Ask me about React Native ↔ native Android tradeoffs, Play Console policy compliance, or Firebase/Razorpay integrations
+- 💬 Ask me about React Native / Flutter ↔ native Android tradeoffs, Play Console policy compliance, or Firebase/Razorpay integrations
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,react,typescript,nodejs,php,mysql,firebase,git,figma" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,react,typescript,nodejs,php,mysql,firebase,git,figma" alt="tech stack icons" />
 </p>
 
-**Mobile:** Android (Kotlin, Java) · React Native (TypeScript) · Firebase (Auth, Firestore) · ML Kit
+**Mobile:** Android (Kotlin, Java) · React Native (TypeScript) · Flutter (Dart) · Firebase (Auth, Firestore) · ML Kit
 **Backend:** PHP · Node.js · MySQL · REST API design · Razorpay payment integration
 **Tooling:** Git · Gradle · Play Console (App Signing, Data Safety, staged rollouts) · Figma
 
